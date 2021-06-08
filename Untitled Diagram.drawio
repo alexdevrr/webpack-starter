@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T22:24:22.048Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="0xvhHEBmiV2XzmzZ1lZv" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T22:25:36.385Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="lKtEuv5j6lrcUpdZQAsd" version="14.7.6" type="github">
   <diagram id="lgsQ7AEzRR6nByDoL1Pl" name="Page-1">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,6 +125,12 @@
         </mxCell>
         <mxCell id="Fm4wlzXl52nEHDpVgKU--51" value="30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="120" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm4wlzXl52nEHDpVgKU--52" value="Alejandro Ramírez Rodriguez" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="500" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm4wlzXl52nEHDpVgKU--53" value="Jhan Marcos Flores Ascencio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="530" width="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
